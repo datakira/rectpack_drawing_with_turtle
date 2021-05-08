@@ -1,10 +1,11 @@
 # rectpack_drawing_with_turtle
 
 I forked this project 'rectpack':
-https://github.com/kyungheejung/rectpack
+
+https://github.com/secnot/rectpack
 
 
-Using result of this code, **this is code for drawing the rectangles with Turtle**.
+Using the result of this code, **this is code for drawing rectangles with Turtle**.
 
 
 ---
