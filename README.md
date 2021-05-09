@@ -1,6 +1,6 @@
 # rectpack_drawing_with_turtle
 
-I forked this project 'rectpack':
+I forked the project 'rectpack' from here :
 
 https://github.com/secnot/rectpack
 
