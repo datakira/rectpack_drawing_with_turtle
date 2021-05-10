@@ -1,4 +1,4 @@
-# rectpack_drawing_with_turtle
+# Rectpack_drawing_with_turtle
 
 I forked the project 'rectpack' from here :
 
